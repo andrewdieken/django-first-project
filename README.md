@@ -48,3 +48,6 @@ Run the following
 ```shell
 $ python manage.py migrate
 ```
+
+### Tastypie
+Tastypie sets up all request types for us when a resource is defined. We don't need to define each individual request as functions!
